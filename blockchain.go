@@ -1,4 +1,4 @@
-package assignment01bca
+package assignment01bcaa
 
 import (
 	"crypto/sha256" // Importing the sha256 library for hashing
